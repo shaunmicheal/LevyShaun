@@ -1,0 +1,10 @@
+body{
+ text-align:right
+ text-color  rgb(252, 255, 251)
+ background-color black
+}
+container{
+  width: 100%
+  background-color rgb(252, 255, 251)
+ text-color rgb(3, 232, 3)
+}
